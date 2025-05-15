@@ -8,9 +8,17 @@
   
 </body>
 </html># Projeto-de-Basquete
-<h1>Título de nível 1</h1>
-<h2>Título de nível 2</h2>
-<h3>Título de nível 3</h3>
-<h4>Título de nível 4</h4>
-<h5>Título de nível 5</h5>
-<h6>Título de nível 6</h6>
+ <header class="container text-center">
+        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
+            srcset="">
+        <p class="lead">Eu sou o Lucas_</p>
+        <h1></h1>
+        <p>Sou um aluno do Fadlo haidar do 3a e esse é o meu projeto sobre Basquete.</p>
+        <p>Assuntos que apresentarei</p>
+        <div>
+            <p class="badge bg-secondary">Basquete</p>
+            <p class="badge bg-secondary">NBA</p>
+            <p class="badge bg-secondary">Jogadores</p>
+            <p class="badge bg-secondary">Roupas de esporte</p>
+        </div>
+    </header>
